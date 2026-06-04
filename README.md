@@ -1,70 +1,12 @@
-<div align="center">
-  <img src="https://github.com/BorneLabs/KU-Students-APP/blob/main/Assets/KU%20Students%20APP%20Transparent%20logo.png" alt="KU Students APP Logo" width="50%">
-  <h1 style="font-family: 'Playfair Display', serif;">KU Students APP</h1>
-</div>
-
-## **Overview**
-The KU Students APP is an open-source android mobile app project developed to simplify student life at Kenyatta University. This app integrates the **Portal, Kusoma Platform** and a **Discussion Forum** into one user-friendly and smooth interface, making it easier for students to access essential services and engage with their peers.
-
-## **Key Features**
-- **Portal Kusoma Integration**: Seamlessly access academic and administrative services.
-- **Discussion Forum**: Connect and collaborate with fellow students.
-- **User-Friendly Design**: A smooth and intuitive layout for effortless navigation.
-- **Offline Access**: Some features of the app can be used without an active internet connection.
-- **Push Notifications**: Stay updated with important university announcements and events.
-
-
-
-### **Technologies Used**
-The KU Students APP was developed using:
-- **JavaScript**: To enhance functionality within the app.
-- **HTML & CSS**: For building and designing the user interface.
-- **Firebase**: For real-time data management and authentication.
-- **SQLite**: To enable offline data storage.
-
-### **FAQ**
-
-#### **What is the purpose of the KU Students APP?**
-The app is designed to streamline student activities at Kenyatta University by integrating key academic services and fostering a sense of community through a discussion forum.
-
-#### **Is the app free to use?**
-Yes, the app is completely free to download, use, and modify under the [MIT License](LICENSE).
-
-#### **What platforms are supported?**
-The app is currently available for Android devices. Plans for iOS support are under consideration.
-
-#### **How do I report a bug or request a feature?**
-You can report bugs or request new features by opening an issue on the [GitHub Issues page](https://github.com/BorneLabs/KU-Students-APP/issues).
-
-#### **Who can contribute to the project?**
-Anyone with an interest in app development, design, or student services is welcome to contribute. Follow the steps in the **How to Contribute** section.
-
-## **How to Contribute**
-We welcome contributions from developers, designers, and students passionate about improving the app. Here's how you can contribute:
-
-1. **Fork the Repository**: Click on the "Fork" button at the top-right corner of this page.
-2. **Clone the Repository**: Clone your forked repository to your local machine using:
-   ```
-   git clone https://github.com/YourUsername/KU-Students-APP.git
-   ```
-3. **Test Your Changes**: Ensure your changes work as intended by testing the app on a physical device or emulator.
-4. **Submit a Pull Request**: Once you’re done, submit a pull request for review.
-
-## **Installation**
-To install and test the app:
-1. Download the **APK file** from the repository.
-2. Install the APK on your device.
-
-
-## **Feedback and Support**
-We’re always looking to improve! If you encounter any issues or have suggestions, feel free to [open an issue](https://github.com/BorneLabs/KU-Students-APP/issues) in the repository.
-
-You can also reach out via email at BorneLabs.org@Gmail.com for further assistance.
-
-## **License**
-This project is licensed under the [MIT License](LICENSE), making it open and free to use, modify, and distribute.
-
----
-
-For more updates and information, follow [Bornelabs on LinkedIn](https://www.linkedin.com/company/bornelabs/). Together, let’s make the KU Students APP the best it can be!
-
+# KU Students App
+  
+ <table>
+  <tr>
+    <td width="30%"">
+      <img src="https://github.com/BorneLabs/KU-Students-APP/blob/main/Assets/KU%20Students%20APP%20Transparent%20logo.png" alt="KU Students APP Logo">
+    </td>
+    <td width="70%" valign="top">
+      The KU Students APP is an open-source Android application developed to enhance student life at Kenyatta University by bringing together the Portal, Kusoma Platform, and a Discussion Forum within a single, user-  friendly interface. Designed for convenience and accessibility, the app enables students to easily access academic and administrative services, engage and collaborate with peers through discussions, receive important   university announcements via push notifications, and use selected features even when offline, creating a seamless and efficient student experience.
+    </td>
+  </tr>
+</table>
